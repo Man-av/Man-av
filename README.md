@@ -132,7 +132,7 @@ Guide: https://github.com/Platane/snk
 ### 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/manvsharma/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:manavsharma6626@gmail.com">
