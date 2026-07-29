@@ -18,13 +18,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Building a project-driven portfolio in **data analytics** and **full-stack deployment**
-- 📊 Comfortable turning messy datasets into clean dashboards and insights
-- 🌱 Currently deep in a **Titanic dataset** project — cleaning, EDA, and reporting end-to-end
-- 💡 Also enjoy shipping small full-stack tools (see Owner Finder below) — not just analysis, but deployment too
-- ⚡ Fun fact: I built a QR-based contact system with server-side security logic before I built my first internship application
-
----
+Master's student at IIT Patna, learning data analytics through projects — Python, SQL, Power BI, Tableau. I code, I struggle, I break things, then I fix them, and somewhere in that loop I end up shipping something that actually works.
 
 ### 🛠️ Tech Stack
 
