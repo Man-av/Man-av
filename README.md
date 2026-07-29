@@ -1,157 +1,69 @@
-<h1 align="center">Hi 👋, I'm Manav Sharma</h1>
+# Hi there, I'm [Your Name] 👋 🚀
+### Aspiring Data Analyst & Data Scientist | Turning Data into Insights & Actionable Business Solutions
 
-<h3 align="center">
-📊 Aspiring Data Analyst | 📈 Future Data Scientist | 💻 MCA Student
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Data+Analyst+in+Progress...;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Insights;Always+Learning+Something+New!" />
-</p>
-
----
-
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXBsZDRrbDdwbm9rZ3A4cTJ3bnB4M2RnZnJ4cTd5bHZ5cmYxemRxYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l46Cy1rHbQ92uuLXa/giphy.gif">
-
-## 🚀 About Me
-
-🎓 MCA Student passionate about Data Analytics & Data Science
-
-📊 Love transforming raw data into meaningful insights
-
-📚 Currently learning Machine Learning & Advanced SQL
-
-💡 Interested in Business Intelligence, AI & Data Visualization
-
-🌱 Building projects with Python, SQL, Power BI & Tableau
-
-⚡ Fun Fact: I enjoy finding stories hidden inside datasets.
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql" />
-</p>
-
-### Data Analytics
-
-<p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas">
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge">
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
----
-
-## 📌 Current Goals
-
-✔ Master SQL
-
-✔ Become proficient in Power BI
-
-✔ Learn Machine Learning
-
-✔ Build 20+ Real-World Data Projects
-
-✔ Land a Data Analyst Role
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 📉 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=15&margin-h=15&column=4"/>
-
-</p>
-
----
-
-## 📂 Featured Projects
-
-📊 Customer Sales Dashboard (Power BI)
-
-⚡ EV Charging Station Demand Analysis
-
-📈 Titanic Data Analysis
-
-🐍 Python Data Cleaning Projects
-
-📉 SQL Business Case Studies
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/your-username)
 
 ---
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
-
+  <img src="https://media.giphy.com/media/qgQUGGAC3P4PPhdrFh/giphy.gif" alt="Data Science Animation" width="500"/>
 </p>
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+## 📌 About Me
+
+- 🎓 Currently pursuing studies in **Data Science & Analytics**.
+- 📊 Passionate about **Exploratory Data Analysis (EDA)**, **Database Management Systems (DBMS)**, **Statistical Modeling**, and **Machine Learning**.
+- 💡 Experience with optimizing relational database queries, building interactive dashboards, and automating data pipelines.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### **Languages & Core Skills**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### **Databases & Data Management**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### **Visualization & Business Intelligence**
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radial&hide_border=true" alt="Your GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%"/>
+</p>
+
+---
+
+## 📁 Featured Projects
+
+| Project Name | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| 📊 **E-Commerce Sales Insights Dashboard** | Interactive dashboard visualizing sales metrics, customer segmentation, and regional trends. | `Power BI`, `SQL`, `Excel` | [View Repo](#) |
+| 🤖 **Customer Churn Prediction Model** | Machine learning model predicting churn probability with key feature importance breakdown. | `Python`, `Scikit-Learn`, `Pandas` | [View Repo](#) |
+| 🗄️ **Relational Database Design & DBMS Optimization** | Designed and optimized schema for transactional databases with indexing and complex queries. | `PostgreSQL`, `SQL`, `ERD` | [View Repo](#) |
+
+---
+
+## 🤝 Connect & Collaborate
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
