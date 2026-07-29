@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ownerfinder.vercel.app" target="_blank">
+  <a href="https://ownerfinder.vercel.app/generator" target="_blank">
     <img alt="Live Project" src="https://img.shields.io/badge/Live%20Project-Owner%20Finder-2E9EF7?style=for-the-badge&logo=vercel" />
   </a>
   <a href="mailto:manavsharma6626@gmail.com">
