@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manav</h1>
+<h1 align="center">Hi, I'm Manav</h1>
 <h3 align="center">Aspiring Data Analyst | Turning raw data into decisions</h3>
 
 <p align="center">
@@ -14,13 +14,17 @@
   </a>
 </p>
 
----
 
-### 🚀 About Me
+
+## **About Me**
+
+
 
 Master's student at IIT Patna, learning data analytics through projects — Python, SQL, Power BI, Tableau. I code, I struggle, I break things, then I fix them, and somewhere in that loop I end up shipping something that actually works.
 
-### 🛠️ Tech Stack
+## **Tech Stack**
+
+
 
 **Languages**
 <div data-importer="techs" align="left">
@@ -55,22 +59,24 @@ Master's student at IIT Patna, learning data analytics through projects — Pyth
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
 </div>
 
----
 
-### 📌 Featured Projects
+
+## **Featured Projects**
+
+
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🚗 Owner Finder</h4>
+      <h4>Owner Finder</h4>
       <p>QR-based vehicle owner contact system. Scan a QR code stuck on a vehicle to securely reach the owner — no phone numbers exposed. Built with server-side lockout protection via Supabase RPC.</p>
       <p>
         <b>Stack:</b> HTML/CSS/JS, Supabase, Vercel<br/>
-        <a href="https://ownerfinder.vercel.app/generator">🔗 Live Demo</a>
+        <a href="https://ownerfinder.vercel.app/generator">Live Demo</a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>📊 Sales Dashboard</h4>
+      <h4>Sales Dashboard</h4>
       <p>Interactive dashboard analyzing sales performance trends — built to surface actionable insights for business decision-making.</p>
       <p>
         <b>Stack:</b> Power BI / Tableau, SQL
@@ -79,14 +85,14 @@ Master's student at IIT Patna, learning data analytics through projects — Pyth
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🔋 EV Demand Analysis</h4>
+      <h4>EV Demand Analysis</h4>
       <p>Analysis of electric vehicle demand trends using real-world data — exploring adoption patterns and market signals.</p>
       <p>
         <b>Stack:</b> Python, Pandas, Matplotlib
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>✋ Gesture Volume Control</h4>
+      <h4>Gesture Volume Control</h4>
       <p>Real-time hand gesture recognition system that controls system volume using computer vision — no physical touch needed.</p>
       <p>
         <b>Stack:</b> Python, OpenCV, MediaPipe
@@ -95,9 +101,11 @@ Master's student at IIT Patna, learning data analytics through projects — Pyth
   </tr>
 </table>
 
----
 
-### 📈 GitHub Stats
+
+## **GitHub Stats**
+
+
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Man-av&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -112,27 +120,21 @@ Master's student at IIT Patna, learning data analytics through projects — Pyth
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Man-av&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
----
 
-### 🐍 Contribution Snake
+
+## **Contribution Snake**
+
+
 
 <p align="center">
   <img data-importer="snake" src="https://raw.githubusercontent.com/man-av/man-av/snake-output/snake.svg" alt="Snake animation" />
-
-###
 </p>
 
-<!--
-To activate the snake animation above:
-1. Create a repo named exactly Man-av/Man-av (if you haven't already)
-2. Add .github/workflows/snake.yml with the Platane/snk action
-3. It auto-generates and commits the SVG to an "output" branch
-Guide: https://github.com/Platane/snk
--->
 
----
 
-### 🤝 Connect With Me
+
+## **Connect With Me**
+
 
 
 <div align="center">
@@ -151,5 +153,5 @@ Guide: https://github.com/Platane/snk
 </div>
 
 <p align="center">
-  <i>Always open to data analyst / entry-level data science opportunities 🚀</i>
+  <i>Always open to data analyst / entry-level data science opportunities</i>
 </p>
