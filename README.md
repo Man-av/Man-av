@@ -5,10 +5,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+in+the+making;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Building+projects+that+tell+a+story;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://ownerfinder.vercel.app/generator" target="_blank">
+ <p align="center">
+  <!--<a href="https://ownerfinder.vercel.app/generator" target="_blank">
     <img alt="Live Project" src="https://img.shields.io/badge/Live%20Project-Owner%20Finder-2E9EF7?style=for-the-badge&logo=vercel" />
-  </a>
+  </a> -->
   <a href="mailto:manavsharma6626@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
