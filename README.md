@@ -65,7 +65,7 @@
       <p>QR-based vehicle owner contact system. Scan a QR code stuck on a vehicle to securely reach the owner — no phone numbers exposed. Built with server-side lockout protection via Supabase RPC.</p>
       <p>
         <b>Stack:</b> HTML/CSS/JS, Supabase, Vercel<br/>
-        <a href="https://ownerfinder.vercel.app">🔗 Live Demo</a>
+        <a href="https://ownerfinder.vercel.app/generator">🔗 Live Demo</a>
       </p>
     </td>
     <td width="50%" valign="top">
