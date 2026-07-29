@@ -140,14 +140,22 @@ Guide: https://github.com/Platane/snk
 
 ### 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/manvsharma/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+### 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/manvsharma/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="59" height="44" alt="linkedin logo" />
   </a>
-  <a href="mailto:manavsharma6626@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://x.com/man29av__" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="59" height="44" alt="twitter logo" />
   </a>
-</p>
+  <a href="https://www.instagram.com/manv__sharma/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="59" height="44" alt="instagram logo" />
+  </a>
+  <a href="mailto:manavsharma6626@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="59" height="44" alt="gmail logo" />
+  </a>
+</div>
 
 <p align="center">
   <i>Always open to data analyst / entry-level data science opportunities 🚀</i>
