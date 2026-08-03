@@ -104,11 +104,10 @@ Master's student at IIT Patna, learning data analytics through projects — Pyth
 
 
 ## **GitHub Stats**
-
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Man-av&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Man-av&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Man-av&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
