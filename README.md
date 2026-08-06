@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Manav</h1>
 <p align="center">
-  <img src="Displayimage" alt="Display Image" width="400">
+  <img src="Displayimage.png" alt="Display Image" width="400">
 </p>
 <h3 align="center">Aspiring Data Analyst | Turning raw data into decisions</h3>
 
