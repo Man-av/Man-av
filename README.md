@@ -8,6 +8,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+in+the+making;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Building+projects+that+tell+a+story;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://ytmusic-readme-widget.vercel.app" alt="Now playing on YouTube Music" />
+</p>
 
 
 
