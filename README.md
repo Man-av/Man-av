@@ -1,7 +1,7 @@
-<!-- <h1 align="center">Hi, I'm Manav</h1> -->
 <p align="center">
   <img src="Displayimage.png" alt="Display Image" width="800">
 </p>
+
 <h3 align="center">Aspiring Data Analyst | Turning raw data into decisions</h3>
 
 <p align="center">
@@ -9,11 +9,10 @@
 </p>
 
 <p align="center">
-  <img src="https://ytmusic-readme-widget.vercel.app" alt="Now playing on YouTube Music" />
+  <img src="https://ytmusic-readme-widget.vercel.app" alt="Now playing on YouTube Music" width="420" />
 </p>
 
-
-
+<br>
 
 ## **About Me**
 
@@ -21,22 +20,26 @@
 
 Master's student at IIT Patna, learning data analytics through projects — Python, SQL, Power BI, Tableau. I code, I struggle, I break things, then I fix them, and somewhere in that loop I end up shipping something that actually works.
 
+<br>
+
 ## **Tech Stack**
 
 
 
 **Languages**
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo" />
 </div>
+
+<br>
 
 **Data & Analytics**
 <p>
@@ -48,17 +51,17 @@ Master's student at IIT Patna, learning data analytics through projects — Pyth
 </p>
 
 **Tools & Deployment**
-<div data-importer="techs" align="left">
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+<div align="left">
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=black&style=for-the-badge" height="40" alt="supabase logo"  />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=black&style=for-the-badge" height="40" alt="supabase logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo" />
 </div>
 
-
+<br>
 
 ## **Featured Projects**
 
@@ -100,30 +103,31 @@ Master's student at IIT Patna, learning data analytics through projects — Pyth
   </tr>
 </table>
 
-
+<br>
 
 ## **GitHub Stats**
+
+
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Man-av&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Man-av&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
-
+<br>
 
 ## **Contribution Snake**
 
 
 
 <p align="center">
-  <img data-importer="snake" src="https://raw.githubusercontent.com/man-av/man-av/snake-output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/man-av/man-av/snake-output/snake.svg" alt="Snake animation" />
 </p>
 
-
-
+<br>
 
 ## **Connect With Me**
 
