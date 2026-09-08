@@ -124,10 +124,16 @@ Master's student at IIT Patna, learning data analytics through projects — Pyth
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/man-av/man-av/snake-output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/Man-av/Man-av/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/Man-av/Man-av/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/Man-av/Man-av/output/github-contribution-grid-snake.svg"
+         alt="GitHub Contribution Snake">
+  </picture>
 </p>
 
-<br>
 
 ## **Connect With Me**
 
