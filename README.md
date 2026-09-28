@@ -107,10 +107,6 @@ I like data products that go all the way: statistical anomaly detection, clean p
 
 
 
-<br>
-
-## **Contribution Snake**
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
