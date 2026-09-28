@@ -105,9 +105,7 @@ I like data products that go all the way: statistical anomaly detection, clean p
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Man-av&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Man-av&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
+
 
 <br>
 
