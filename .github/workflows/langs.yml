@@ -1,0 +1,77 @@
+name: Update language card
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/langs.yml"
+permissions:
+  contents: write
+jobs:
+  langs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Build language card
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cat > gen.js <<'NODE'
+          const fs = require("fs");
+          const USER = process.env.GH_USER || "Man-av";
+          const TOP_REPOS = 20, SHOW = 5;
+          const EXCLUDE = (process.env.EXCLUDE || "").split(",").filter(Boolean);
+          const COLORS = {JavaScript:"#f1e05a",TypeScript:"#5cc8ff",Python:"#3572A5",Java:"#b07219",C:"#8a8a8a","C++":"#f34b7d",
+            "C#":"#22a022",HTML:"#e34c26",CSS:"#7e57c2","Jupyter Notebook":"#14b8a6",PLpgSQL:"#e6b800",SQL:"#e6b800",
+            Shell:"#89e051",Swift:"#F05138",Go:"#00ADD8",PHP:"#4F5D95",R:"#198CE7"};
+          const col = l => COLORS[l] || "#9a9aa5";
+          const H = {"User-Agent":"langs-card",Accept:"application/vnd.github+json",
+            ...(process.env.GITHUB_TOKEN && {Authorization:`Bearer ${process.env.GITHUB_TOKEN}`})};
+          const get = async u => { const r = await fetch(u,{headers:H}); if(!r.ok) throw new Error(u+" "+r.status); return r.json(); };
+          async function bytesByLang() {
+            if (process.env.MOCK) return {Python:52000,"Jupyter Notebook":31000,JavaScript:24000,HTML:15000,TypeScript:11000};
+            const repos = (await get(`https://api.github.com/users/${USER}/repos?per_page=100&type=owner`))
+              .filter(r => !r.fork)
+              .sort((a,b) => b.stargazers_count - a.stargazers_count || new Date(b.pushed_at) - new Date(a.pushed_at))
+              .slice(0, TOP_REPOS);
+            const tot = {};
+            for (const r of repos) for (const [k,v] of Object.entries(await get(r.languages_url))) tot[k] = (tot[k]||0) + v;
+            return tot;
+          }
+          (async () => {
+            const entries = Object.entries(await bytesByLang()).filter(([k]) => !EXCLUDE.includes(k)).sort((a,b) => b[1]-a[1]);
+            const total = entries.reduce((s,[,v]) => s+v, 0);
+            if (!total) throw new Error("No language data found");
+            const top = entries.slice(0, SHOW).map(([l,v]) => [l, v/total*100]);
+            const R = 42, C = 2*Math.PI*R; let off = 0;
+            const arcs = top.map(([l,p]) => { const len = p/100*C;
+              const s = `<circle r="${R}" fill="none" stroke="${col(l)}" stroke-width="16" stroke-dasharray="${len.toFixed(2)} ${C.toFixed(2)}" stroke-dashoffset="${(-off).toFixed(2)}"/>`;
+              off += len; return s; }).join("");
+            const legend = top.map(([l,p],i) => { const y = 62 + i*26;
+              return `<circle cx="196" cy="${y-4}" r="5" fill="${col(l)}"/><text x="212" y="${y}" class="n">${l}</text><text x="424" y="${y}" class="p" text-anchor="end">${Math.round(p)}%</text>`; }).join("");
+            const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="440" height="210" viewBox="0 0 440 210" role="img" aria-label="Top languages">
+          <style>text{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}.n{font-size:14px;fill:#e8e8ea}.p{font-size:14px;fill:#8a8a92}.s{font-size:11px;fill:#8a8a92}.c{font-size:12px;fill:#8a8a92}</style>
+          <rect x=".5" y=".5" width="439" height="209" rx="12" fill="#121214" stroke="#26262a"/>
+          <g transform="translate(96 96) rotate(-90)"><circle r="${R}" fill="none" stroke="#26262a" stroke-width="16"/>${arcs}</g>
+          <text x="96" y="100" text-anchor="middle" class="c">${top.length} langs</text>
+          ${legend}
+          <text x="20" y="196" class="s">Based on top ${TOP_REPOS} repos</text>
+          </svg>`;
+            fs.mkdirSync("assets", {recursive:true});
+            fs.writeFileSync("assets/langs.svg", svg);
+            console.log("wrote assets/langs.svg", top.map(([l,p]) => `${l} ${Math.round(p)}%`).join(", "));
+          })().catch(e => { console.error(e.message); process.exit(1); });
+
+          NODE
+          node gen.js
+          rm gen.js
+      - name: Commit card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/langs.svg
+          git diff --cached --quiet || (git commit -m "Update language card" && git push)
