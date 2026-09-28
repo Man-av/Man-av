@@ -30,37 +30,35 @@ I like data products that go all the way: statistical anomaly detection, clean p
 ## **Core Technologies**
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-
+<tr>
+<td width="50%" valign="top">
 <p><b>Data & Analytics</b></p>
 <p>
-  <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-E6B800?style=flat-square&logo=postgresql&logoColor=black" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-14B8A6?style=flat-square&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-E6B800?style=flat-square&logo=postgresql&logoColor=black" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-14B8A6?style=flat-square&logo=jupyter&logoColor=white" />
 </p>
 <p><b>Full-Stack & Tools</b></p>
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-5CC8FF?style=flat-square&logo=typescript&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F1E05A?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-5CC8FF?style=flat-square&logo=typescript&logoColor=black" />
+<img src="https://img.shields.io/badge/JavaScript-F1E05A?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
-
-    </td>
-    <td width="50%" valign="middle" align="center">
-      <img src="assets/langs.svg" width="420" alt="Top languages from my repos" />
-    </td>
-  </tr>
+</td>
+<td width="50%" valign="middle" align="center">
+<img src="assets/langs.svg" width="420" alt="Top languages from my repos" />
+</td>
+</tr>
 </table>
 
 <br>
