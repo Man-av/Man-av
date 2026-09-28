@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="https://sharmanav.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0E0E10?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://sharmanav.vercel.app/assets/resume.pdf"><img src="https://img.shields.io/badge/Resume-2E9EF7?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" /></a>
   <a href="https://www.linkedin.com/in/manvsharma/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:manavsharma6626@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -27,7 +26,7 @@ I like data products that go all the way: statistical anomaly detection, clean p
 ## **Core Technologies**
 
 <table>
-<tr>
+
 <td width="50%" valign="top">
 <p><b>Data & Analytics</b></p>
 <p>
