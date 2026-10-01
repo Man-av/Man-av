@@ -9,6 +9,8 @@
 <p align="center">
   <a href="https://sharmanav.vercel.app/assets/resume.pdf"><img src="https://img.shields.io/badge/Resume-2E9EF7?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" /></a>
   <a href="https://www.linkedin.com/in/manvsharma/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/man29av__"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.instagram.com/manv__sharma/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:manavsharma6626@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -26,7 +28,7 @@ I like data products that go all the way: statistical anomaly detection, clean p
 ## **Core Technologies**
 
 <table>
-
+<tr>
 <td width="50%" valign="top">
 <p><b>Data & Analytics</b></p>
 <p>
@@ -119,23 +121,6 @@ I like data products that go all the way: statistical anomaly detection, clean p
 </p>
 
 <br>
-
-## **Connect With Me**
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/manvsharma/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="59" height="44" alt="linkedin logo" />
-  </a>
-  <a href="https://x.com/man29av__" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="59" height="44" alt="twitter logo" />
-  </a>
-  <a href="https://www.instagram.com/manv__sharma/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="59" height="44" alt="instagram logo" />
-  </a>
-  <a href="mailto:manavsharma6626@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="59" height="44" alt="gmail logo" />
-  </a>
-</div>
 
 <p align="center">
   <i>Open to Data Analyst, BI, and entry-level Data Science roles</i>
